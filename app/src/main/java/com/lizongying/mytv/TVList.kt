@@ -936,16 +936,19 @@ object TVList {
             ),
             TV(
                 61,
-                "CGTN 纪录频道",
-                "CGTN外语纪录频道",
-                listOf("https://livedoc.cgtn.com/500d/prog_index.m3u8"),
+                "Jiangsu",
+                "Jiangsu",
+                listOf(
+                    "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
+                    "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8"
+                ),
                 0,
                 "国际频道",
-                "https://resources.yangshipin.cn/assets/oms/image/202309/74d3ac436a7e374879578de1d87a941fbf566d39d5632b027c5097891ed32bd5.png?imageMogr2/format/webp",
-                "600084781",
-                "2022574701",
-                "600084781",
-                false,
+                "https://resources.yangshipin.cn/assets/oms/image/202306/380ad685c0c1d5b2c902246b8d2df6d3f9b45e2837abcfe493075bbded597a31.png?imageMogr2/format/webp",
+                "600002521",
+                "2000295603",
+                "600002521",
+                true,
                 mustToken = false
             ),
         )
